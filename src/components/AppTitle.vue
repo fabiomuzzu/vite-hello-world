@@ -6,7 +6,7 @@ export default {
 
 <template lang="">
   <div>
-    Benvenuti in Vite!
+    <h1>Benvenuti in Vite!</h1>
   </div>
 </template>
 
